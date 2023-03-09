@@ -3,7 +3,7 @@ Filters Youtube comments based on the following classes:
 
 ## Classes:
 
-Praise, Criticism, Suggestion, Opinion, Question, Humor, Personal Anecdote, Toxic, Low Quality
+Praise | Criticism | Suggestion | Opinion | Question | Humor | Personal Anecdote | Toxic | Low Quality
 
 Praise: comments praising the work of the Youtuber's video or folks affiliated with the Youtuber with a clearly positive sentiment.
 
