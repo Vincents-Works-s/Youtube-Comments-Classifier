@@ -1,7 +1,7 @@
 # Youtube-Comments-Classifier
 Objective: To allow users of Youtube and Youtubers alike access to more fruitful and interesting ideas from the community, and to promote complex, intellectual, and safe conversations regarding relevant issues.
 
-Filters Youtube comments based on the following classes:
+Use machine learning techniques to classify Youtube comments based on the following classes:
 
 ## Classes:
 
