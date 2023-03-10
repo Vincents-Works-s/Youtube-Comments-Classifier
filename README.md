@@ -1,4 +1,6 @@
 # Youtube-Comments-Filter
+Objective: To allow users of Youtube and Youtubers alike access to more fruitful and interesting ideas from the community, and to promote complex, intellectual conversations regarding real-life issues.
+
 Filters Youtube comments based on the following classes:
 
 ## Classes:
